@@ -1,5 +1,6 @@
 ﻿
-/*Jonathan Mutala*/
+/*Jonathan Mutala
+ copyright jonathanMutala*/
 
 using System;
 using System.Collections.Generic;

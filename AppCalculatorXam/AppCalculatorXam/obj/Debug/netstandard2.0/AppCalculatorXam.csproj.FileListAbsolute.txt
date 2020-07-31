@@ -1,0 +1,15 @@
+C:\Users\Simon Mutala\Desktop\Xamarin\ProjetXamarinCalculator\AppCalculatorXam\AppCalculatorXam\AppCalculatorXam\bin\Debug\netstandard2.0\AppCalculatorXam.deps.json
+C:\Users\Simon Mutala\Desktop\Xamarin\ProjetXamarinCalculator\AppCalculatorXam\AppCalculatorXam\AppCalculatorXam\bin\Debug\netstandard2.0\AppCalculatorXam.dll
+C:\Users\Simon Mutala\Desktop\Xamarin\ProjetXamarinCalculator\AppCalculatorXam\AppCalculatorXam\AppCalculatorXam\bin\Debug\netstandard2.0\ref\AppCalculatorXam.dll
+C:\Users\Simon Mutala\Desktop\Xamarin\ProjetXamarinCalculator\AppCalculatorXam\AppCalculatorXam\AppCalculatorXam\bin\Debug\netstandard2.0\AppCalculatorXam.pdb
+C:\Users\Simon Mutala\Desktop\Xamarin\ProjetXamarinCalculator\AppCalculatorXam\AppCalculatorXam\AppCalculatorXam\obj\Debug\netstandard2.0\AppCalculatorXam.csprojAssemblyReference.cache
+C:\Users\Simon Mutala\Desktop\Xamarin\ProjetXamarinCalculator\AppCalculatorXam\AppCalculatorXam\AppCalculatorXam\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Simon Mutala\Desktop\Xamarin\ProjetXamarinCalculator\AppCalculatorXam\AppCalculatorXam\AppCalculatorXam\obj\Debug\netstandard2.0\ContentPageCalculator.xaml.g.cs
+C:\Users\Simon Mutala\Desktop\Xamarin\ProjetXamarinCalculator\AppCalculatorXam\AppCalculatorXam\AppCalculatorXam\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Simon Mutala\Desktop\Xamarin\ProjetXamarinCalculator\AppCalculatorXam\AppCalculatorXam\AppCalculatorXam\obj\Debug\netstandard2.0\AppCalculatorXam.csproj.CoreCompileInputs.cache
+C:\Users\Simon Mutala\Desktop\Xamarin\ProjetXamarinCalculator\AppCalculatorXam\AppCalculatorXam\AppCalculatorXam\obj\Debug\netstandard2.0\AppCalculatorXam.AssemblyInfoInputs.cache
+C:\Users\Simon Mutala\Desktop\Xamarin\ProjetXamarinCalculator\AppCalculatorXam\AppCalculatorXam\AppCalculatorXam\obj\Debug\netstandard2.0\AppCalculatorXam.AssemblyInfo.cs
+C:\Users\Simon Mutala\Desktop\Xamarin\ProjetXamarinCalculator\AppCalculatorXam\AppCalculatorXam\AppCalculatorXam\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Simon Mutala\Desktop\Xamarin\ProjetXamarinCalculator\AppCalculatorXam\AppCalculatorXam\AppCalculatorXam\obj\Debug\netstandard2.0\AppCalculatorXam.dll
+C:\Users\Simon Mutala\Desktop\Xamarin\ProjetXamarinCalculator\AppCalculatorXam\AppCalculatorXam\AppCalculatorXam\obj\Debug\netstandard2.0\ref\AppCalculatorXam.dll
+C:\Users\Simon Mutala\Desktop\Xamarin\ProjetXamarinCalculator\AppCalculatorXam\AppCalculatorXam\AppCalculatorXam\obj\Debug\netstandard2.0\AppCalculatorXam.pdb

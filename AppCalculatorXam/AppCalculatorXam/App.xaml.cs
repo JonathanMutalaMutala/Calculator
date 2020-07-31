@@ -10,7 +10,7 @@ namespace AppCalculatorXam
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new ContentPageCalculator();
         }
 
         protected override void OnStart()

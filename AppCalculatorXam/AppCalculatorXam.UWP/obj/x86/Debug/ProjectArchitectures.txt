@@ -1,0 +1,1 @@
+C:\Users\Simon Mutala\Desktop\Xamarin\ProjetXamarinCalculator\AppCalculatorXam\AppCalculatorXam\AppCalculatorXam.UWP\AppCalculatorXam.UWP.csproj;x86
