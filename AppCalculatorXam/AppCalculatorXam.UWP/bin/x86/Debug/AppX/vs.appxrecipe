@@ -720,7 +720,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Simon Mutala\Desktop\Xamarin\ProjetXamarinCalculator\AppCalculatorXam\AppCalculatorXam\AppCalculatorXam\bin\Debug\netstandard2.0\AppCalculatorXam.dll">
       <PackagePath>AppCalculatorXam.dll</PackagePath>
-      <Modified>2020-07-30T15:50:46.739</Modified>
+      <Modified>2020-07-31T21:01:41.993</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
